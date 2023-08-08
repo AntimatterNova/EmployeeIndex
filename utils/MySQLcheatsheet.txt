@@ -1,0 +1,17 @@
+USE database_name;
+- selects the database accessed through the command line.
+
+SHOW DATABASE;
+- shows the contents of currently selected database.
+
+SHOW TABLES;
+- shows the tables of currently selected database.
+
+SELECT * FROM table_name;
+- Query all data from a table.
+
+DELETE FROM table;
+- deletes all content of the table.
+
+TRUNCATE table;
+- 
